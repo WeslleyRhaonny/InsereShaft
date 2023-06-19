@@ -1,0 +1,11 @@
+C:\Users\janai\OneDrive\Documentos\weslley\Thorus\ProjetoThorus1\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\janai\OneDrive\Documentos\weslley\Thorus\ProjetoThorus1\ClassLibrary1\obj\Debug\MainWindow.g.cs
+C:\Users\janai\OneDrive\Documentos\weslley\Thorus\ProjetoThorus1\ClassLibrary1\obj\Debug\ClassLibrary1_MarkupCompile.cache
+C:\Users\janai\OneDrive\Documentos\weslley\Thorus\ProjetoThorus1\ClassLibrary1\obj\Debug\ClassLibrary1_MarkupCompile.lref
+C:\Users\janai\OneDrive\Documentos\weslley\Thorus\ProjetoThorus1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\janai\OneDrive\Documentos\weslley\Thorus\ProjetoThorus1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\janai\OneDrive\Documentos\weslley\Thorus\ProjetoThorus1\ClassLibrary1\obj\Debug\MainWindow.baml
+C:\Users\janai\OneDrive\Documentos\weslley\Thorus\ProjetoThorus1\ClassLibrary1\obj\Debug\ClassLibrary1.g.resources
+C:\Users\janai\OneDrive\Documentos\weslley\Thorus\ProjetoThorus1\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\janai\OneDrive\Documentos\weslley\Thorus\ProjetoThorus1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\janai\OneDrive\Documentos\weslley\Thorus\ProjetoThorus1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
